@@ -5,4 +5,4 @@
   - Appium-Python-Client==1.2.0
 
 - WinAppDriver
-
+- Enable developer mode
